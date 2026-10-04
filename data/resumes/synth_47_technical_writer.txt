@@ -1,0 +1,21 @@
+Zoe Tanaka
+Email: zoe.tanaka@example.com | Phone: (675) 555-1822 | linkedin.com/in/zoetanaka
+
+SUMMARY
+Technical writer with 10 years documenting developer-facing products.
+
+EDUCATION
+Indiana University Bloomington
+Bachelor of Arts in English, Graduated May 2018
+
+EXPERIENCE
+Technical Writer, Northbridge Systems (Mar 2024 - Present)
+- Authored API documentation used by 800+ external developers
+- Reduced support tickets by 30% through improved onboarding guides
+- Collaborated with engineering to keep docs in sync with REST API releases
+
+Technical Writer, BrightPath Labs (Dec 2018 - Sep 2024)
+- Wrote internal knowledge base articles for a SaaS support team
+
+SKILLS
+REST APIs, Git, Agile, Stakeholder Management

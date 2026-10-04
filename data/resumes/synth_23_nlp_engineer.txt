@@ -1,0 +1,21 @@
+Harper Weber
+Email: harper.weber@example.com | Phone: (874) 555-8062 | linkedin.com/in/harperweber
+
+SUMMARY
+Machine learning engineer with 6 years specializing in NLP and deep learning.
+
+EDUCATION
+Indiana University Bloomington
+Master of Science in Computer Science (Machine Learning), Graduated May 2019
+
+EXPERIENCE
+NLP / Deep Learning Engineer, Granite Peak Solutions (Apr 2023 - Present)
+- Fine-tuned transformer models (Hugging Face) for classification, improving F1 by 51%
+- Deployed NLP models via TensorFlow/PyTorch serving 400K+ requests/day
+- Built a retrieval-augmented generation pipeline for internal knowledge search
+
+NLP / Deep Learning Engineer, Meridian Software (Feb 2019 - Feb 2023)
+- Built text preprocessing pipelines for a document classification project
+
+SKILLS
+Python, Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch, Hugging Face, SQL, Docker, AWS

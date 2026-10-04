@@ -1,0 +1,22 @@
+Rachel Nguyen
+Email: rachel.nguyen@example.com | Phone: (408) 555-0187 | linkedin.com/in/rachelnguyen
+
+SUMMARY
+Product manager with 7 years of experience leading B2B SaaS product lines from discovery to launch.
+
+EDUCATION
+UC Berkeley, Haas School of Business
+MBA, Graduated May 2017
+UCLA, Bachelor of Arts in Economics, Graduated May 2013
+
+EXPERIENCE
+Senior Product Manager, WorkflowPro (Feb 2020 - Present)
+- Owned roadmap for a workflow automation product generating $18M ARR
+- Led cross-functional teams of engineers, designers, and analysts through agile sprints
+- Launched 4 major features that increased user retention by 22%
+
+Product Manager, Bright Analytics (Aug 2017 - Feb 2020)
+- Defined product requirements and prioritized backlog for a data analytics dashboard
+
+SKILLS
+Product Strategy, Roadmapping, Agile, Jira, SQL, A/B Testing, Stakeholder Management, User Research

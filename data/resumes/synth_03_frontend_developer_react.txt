@@ -1,0 +1,21 @@
+Elena Torres
+Email: elena.torres@example.com | Phone: (512) 555-0176 | linkedin.com/in/elenatorres
+
+SUMMARY
+Frontend engineer with 4 years building responsive web applications with React and TypeScript.
+
+EDUCATION
+University of Texas at Austin
+Bachelor of Science in Computer Science, Graduated May 2020
+
+EXPERIENCE
+Frontend Engineer, Bright Retail Co. (Aug 2021 - Present)
+- Built customer-facing React/TypeScript storefront serving 500K monthly users
+- Improved Lighthouse performance score from 62 to 94 through code splitting and lazy loading
+- Collaborated with design team to implement a component library used across 6 products
+
+Junior Web Developer, PixelWorks Agency (Jun 2020 - Aug 2021)
+- Developed marketing sites with React, HTML, CSS, and JavaScript
+
+SKILLS
+JavaScript, TypeScript, React, Redux, HTML, CSS, Next.js, Webpack, Jest, REST APIs, Git

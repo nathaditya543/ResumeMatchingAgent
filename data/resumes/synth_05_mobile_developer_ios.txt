@@ -1,0 +1,18 @@
+Sofia Ricci
+Email: sofia.ricci@example.com | Phone: (617) 555-0119 | linkedin.com/in/sofiaricci
+
+SUMMARY
+iOS developer with 5 years building consumer mobile applications in Swift.
+
+EDUCATION
+Northeastern University
+Bachelor of Science in Computer Science, Graduated May 2019
+
+EXPERIENCE
+iOS Developer, AppVantage Studios (Jun 2019 - Present)
+- Shipped 3 top-100 iOS apps in the App Store using Swift and SwiftUI
+- Reduced app crash rate by 85% through improved memory management and testing
+- Integrated Core Data and CloudKit for offline-first sync
+
+SKILLS
+Swift, SwiftUI, UIKit, Core Data, Xcode, REST APIs, Git, Agile, Mobile Testing

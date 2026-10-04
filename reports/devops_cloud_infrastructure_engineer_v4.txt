@@ -1,0 +1,126 @@
+# Candidate Match Report
+
+## Job Description
+
+DevOps / Cloud Infrastructure Engineer
+
+We are looking for a DevOps Engineer to manage our cloud infrastructure and CI/CD pipelines.
+
+Requirements:
+- 4+ years of experience in DevOps or Site Reliability Engineering
+- Strong experience with AWS or GCP
+- Experience with Kubernetes, Docker, and Terraform
+- Experience with monitoring tools like Prometheus and Grafana
+- Scripting experience in Python or Bash
+
+Responsibilities:
+- Automate infrastructure provisioning using Terraform
+- Maintain Kubernetes clusters and CI/CD pipelines
+- Improve system reliability and on-call incident response
+
+Additional requirement from hiring manager: Actually, make Terraform a hard requirement, not just nice-to-have.
+
+## Requirements
+
+- Must-have skills: AWS, Bash, CI/CD, Docker, GCP, Grafana, Kubernetes, Prometheus, Python, Terraform
+- Nice-to-have skills: none detected
+- Experience requirements: 4+ years of experience
+
+## Ranked Candidates
+
+### James O'Brien (synth_04_devops_engineer) — **Hire**
+
+- Match score: 86/100
+- Meets must-have requirements: True
+- Experience: 7 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Bash, CI/CD, Docker, GCP, Grafana, Kubernetes, Prometheus, Python, Terraform
+- Gaps: none
+- Reasoning: Matched skills: AWS, Bash, CI/CD, Docker, GCP, Grafana, Kubernetes, Prometheus, Python, Terraform. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.79, keyword overlap 1.00.
+
+### synth 17 site reliability engineer (synth_17_site_reliability_engineer) — **Hire**
+
+- Match score: 76/100
+- Meets must-have requirements: True
+- Experience: 7 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Bash, CI/CD, Docker, GCP, Grafana, Kubernetes, Prometheus, Python, Terraform
+- Gaps: none
+- Reasoning: Matched skills: AWS, Bash, CI/CD, Docker, GCP, Grafana, Kubernetes, Prometheus, Python, Terraform. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.64, keyword overlap 1.00.
+
+### Carter Garcia (synth_18_site_reliability_engineer) — **Hire**
+
+- Match score: 76/100
+- Meets must-have requirements: True
+- Experience: 4 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Bash, CI/CD, Docker, GCP, Grafana, Kubernetes, Prometheus, Python, Terraform
+- Gaps: none
+- Reasoning: Matched skills: AWS, Bash, CI/CD, Docker, GCP, Grafana, Kubernetes, Prometheus, Python, Terraform. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.64, keyword overlap 1.00.
+
+### Aria Haddad (synth_44_cloud_solutions_architect) — **Consider (borderline)**
+
+- Match score: 67/100
+- Meets must-have requirements: True
+- Experience: 9 years, Education: Bachelor's
+- Matched skills (strengths): AWS, CI/CD, Docker, GCP, Kubernetes, Python, Terraform
+- Gaps: Bash, Grafana, Prometheus
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Bash, Grafana, Prometheus
+- Reasoning: Matched skills: AWS, CI/CD, Docker, GCP, Kubernetes, Python, Terraform. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.65, keyword overlap 0.70.
+
+### Ella Okafor (synth_43_cloud_solutions_architect) — **Consider (borderline)**
+
+- Match score: 66/100
+- Meets must-have requirements: True
+- Experience: 8 years, Education: Bachelor's
+- Matched skills (strengths): AWS, CI/CD, Docker, GCP, Kubernetes, Python, Terraform
+- Gaps: Bash, Grafana, Prometheus
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Bash, Grafana, Prometheus
+- Reasoning: Matched skills: AWS, CI/CD, Docker, GCP, Kubernetes, Python, Terraform. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.64, keyword overlap 0.70.
+
+### Priya Nair (synth_01_software_engineer_python) — **Consider (borderline)**
+
+- Match score: 51/100
+- Meets must-have requirements: True
+- Experience: 6 years, Education: Bachelor's
+- Matched skills (strengths): AWS, CI/CD, Docker, Kubernetes, Python
+- Gaps: Bash, GCP, Grafana, Prometheus, Terraform
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Bash, GCP, Grafana, Prometheus, Terraform
+- Reasoning: Matched skills: AWS, CI/CD, Docker, Kubernetes, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.52, keyword overlap 0.50.
+
+### Lucas Kim (synth_13_backend_java_engineer) — **No Hire**
+
+- Match score: 47/100
+- Meets must-have requirements: True
+- Experience: 8 years, Education: Bachelor's
+- Matched skills (strengths): AWS, CI/CD, Docker, Kubernetes
+- Gaps: Bash, GCP, Grafana, Prometheus, Python, Terraform
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Bash, GCP, Grafana, Prometheus, Python, Terraform
+- Reasoning: Matched skills: AWS, CI/CD, Docker, Kubernetes. Strong semantic match in section(s): EXPERIENCE. Semantic similarity 0.51, keyword overlap 0.40.
+
+### Amara Johnson (synth_09_fullstack_developer) — **No Hire**
+
+- Match score: 44/100
+- Meets must-have requirements: True
+- Experience: 8 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Python
+- Gaps: Bash, CI/CD, GCP, Grafana, Kubernetes, Prometheus, Terraform
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Bash, CI/CD, GCP, Grafana, Kubernetes, Prometheus, Terraform
+- Reasoning: Matched skills: AWS, Docker, Python. Strong semantic match in section(s): SUMMARY. Semantic similarity 0.52, keyword overlap 0.30.
+
+### Ethan Weber (synth_16_data_engineer) — **No Hire**
+
+- Match score: 44/100
+- Meets must-have requirements: True
+- Experience: 4 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Python
+- Gaps: Bash, CI/CD, GCP, Grafana, Kubernetes, Prometheus, Terraform
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Bash, CI/CD, GCP, Grafana, Kubernetes, Prometheus, Terraform
+- Reasoning: Matched skills: AWS, Docker, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.51, keyword overlap 0.30.
+
+### Hiroshi Tanaka (synth_10_cloud_ml_engineer) — **No Hire**
+
+- Match score: 44/100
+- Meets must-have requirements: True
+- Experience: 6 years, Education: Master's
+- Matched skills (strengths): AWS, Docker, Kubernetes, Python
+- Gaps: Bash, CI/CD, GCP, Grafana, Prometheus, Terraform
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Bash, CI/CD, GCP, Grafana, Prometheus, Terraform
+- Reasoning: Matched skills: AWS, Docker, Kubernetes, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.46, keyword overlap 0.40.

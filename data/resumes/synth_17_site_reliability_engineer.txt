@@ -1,0 +1,21 @@
+Mia Sørensen
+Email: mia.sørensen@example.com | Phone: (980) 555-3927 | linkedin.com/in/miasørensen
+
+SUMMARY
+SRE with 7 years improving uptime and observability for cloud services.
+
+EDUCATION
+Virginia Tech
+Bachelor of Science in Computer Engineering, Graduated May 2012
+
+EXPERIENCE
+Site Reliability Engineer, Anchorpoint Tech (Dec 2016 - Present)
+- Maintained 79.9% uptime SLA across a fleet of Kubernetes clusters on AWS/GCP
+- Built Prometheus/Grafana dashboards and alerting, cutting incident detection time by 22%
+- Automated infrastructure provisioning with Terraform across multiple environments
+
+Site Reliability Engineer, Summit Cloud Group (May 2012 - Sep 2016)
+- Ran on-call rotations and wrote postmortems for production incidents
+
+SKILLS
+AWS, GCP, Kubernetes, Docker, Terraform, Prometheus, Grafana, Python, Bash, Linux, CI/CD

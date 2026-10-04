@@ -1,0 +1,21 @@
+Hiroshi Tanaka
+Email: hiroshi.tanaka@example.com | Phone: (206) 555-0143 | linkedin.com/in/hiroshitanaka
+
+SUMMARY
+Machine learning engineer with 6 years of experience deploying ML models at scale in cloud environments.
+
+EDUCATION
+University of Michigan
+Master of Science in Computer Science (Machine Learning), Graduated May 2018
+
+EXPERIENCE
+ML Engineer, Skyline AI (Mar 2020 - Present)
+- Deployed production ML models (PyTorch, TensorFlow) serving 10M+ predictions per day on AWS SageMaker
+- Built MLOps pipelines with Kubeflow and Airflow for model retraining and monitoring
+- Optimized inference latency by 45% through model quantization
+
+Software Engineer, DataForge Inc (Jul 2018 - Mar 2020)
+- Built data pipelines in Python and Spark for feature engineering
+
+SKILLS
+Python, PyTorch, TensorFlow, AWS SageMaker, Kubeflow, Airflow, Spark, Docker, Kubernetes, MLOps, SQL

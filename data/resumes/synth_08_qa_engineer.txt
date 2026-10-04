@@ -1,0 +1,21 @@
+Tom Baker
+Email: tom.baker@example.com | Phone: (720) 555-0155 | linkedin.com/in/tombaker
+
+SUMMARY
+QA automation engineer with 5 years testing web and API applications.
+
+EDUCATION
+Colorado State University
+Bachelor of Science in Computer Science, Graduated May 2019
+
+EXPERIENCE
+QA Automation Engineer, TestForge Software (Jul 2020 - Present)
+- Built automated test suites using Selenium and Python covering 400+ regression cases
+- Set up API testing framework with Postman and pytest, cutting release testing time by 50%
+- Collaborated with developers to integrate tests into CI/CD pipeline
+
+QA Analyst, RetailSoft (Jun 2019 - Jul 2020)
+- Performed manual and automated testing for e-commerce checkout flows
+
+SKILLS
+Selenium, Python, pytest, Postman, API Testing, CI/CD, Jira, Test Planning, Manual Testing

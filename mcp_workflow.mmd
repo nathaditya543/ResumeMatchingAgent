@@ -1,0 +1,62 @@
+sequenceDiagram
+    participant U as Hiring Manager (CLI/Streamlit)
+    participant A as matching_agent.py (LangGraph)
+    participant T as tools.py (@tool wrappers)
+    participant C as mcp_client.py (MCPClient)
+    participant FS as filesystem_mcp_server.py
+    participant IX as resume_index_mcp_server.py
+    participant D as data/, reports/ (disk)
+
+    Note over A,FS: process boundary -- subprocess, JSON-RPC 2.0 over stdio
+
+    U->>A: job description (text or file path)
+    A->>C: get_fs_client()
+    C->>FS: spawn subprocess + {"method":"initialize"}
+    FS-->>C: serverInfo + capabilities
+
+    rect rgb(235,245,255)
+    Note over A,D: parse_jd
+    A->>C: read_file(jd_path)
+    C->>FS: {"method":"tools/call","params":{"name":"read_file",...}}
+    FS->>D: fs_tools.read_file() (path checked against allowed_roots)
+    D-->>FS: text + metadata
+    FS-->>C: {"result":{"content":[{"json":{...}}]}}
+    C-->>A: jd_text
+    end
+
+    A->>T: extract_requirements(jd_text)
+    T-->>A: must-have / nice-to-have skills
+
+    A->>T: search_resumes(jd_text)  (Milestone 2 RAG, unchanged)
+    T-->>A: initial_pool (Round 1)
+
+    rect rgb(235,245,255)
+    Note over A,D: rank_candidates (Round 2)
+    loop each candidate in initial_pool
+        A->>C: read_file(candidate.resume_path)
+        C->>FS: tools/call read_file
+        FS->>D: full resume text
+        FS-->>C: text
+        C-->>A: gaps + improvement_suggestions
+    end
+    end
+
+    rect rgb(235,245,255)
+    Note over A,D: generate_report (Round 3)
+    A->>C: write_file(report_path, markdown)
+    C->>FS: tools/call write_file
+    FS->>D: fs_tools.write_file()
+    FS-->>C: {"message":"File written successfully",...}
+    C-->>A: confirmation
+    end
+
+    rect rgb(255,245,230)
+    Note over A,IX: bonus: multi-MCP -- a second, independent server
+    A->>C: get_index_client()
+    C->>IX: spawn subprocess + initialize
+    A->>C: call_tool("index_stats", {})
+    C->>IX: tools/call index_stats
+    IX-->>C: {"chunks_indexed": N}
+    end
+
+    A-->>U: report + interactive chat (interrupt/resume loop)

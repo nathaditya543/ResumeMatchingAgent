@@ -1,0 +1,22 @@
+Marcus Chen
+Email: marcus.chen@example.com | Phone: (206) 555-0198 | linkedin.com/in/marcuschen
+
+SUMMARY
+Data scientist with 5 years of experience in machine learning, NLP, and predictive modeling.
+
+EDUCATION
+University of Washington
+Master of Science in Data Science, Graduated June 2019
+Bachelor of Science in Statistics, Graduated June 2017
+
+EXPERIENCE
+Data Scientist, Cascade Analytics (Aug 2019 - Present)
+- Built and deployed machine learning models (scikit-learn, XGBoost) for churn prediction, improving retention by 12%
+- Developed NLP pipelines using spaCy and Hugging Face Transformers for document classification
+- Created A/B testing framework used across 3 product teams
+
+Machine Learning Intern, Northwind Labs (Jun 2018 - Aug 2018)
+- Trained classification models in Python and evaluated with cross-validation
+
+SKILLS
+Python, Machine Learning, scikit-learn, XGBoost, Pandas, NumPy, SQL, NLP, Hugging Face, TensorFlow, PyTorch, A/B Testing

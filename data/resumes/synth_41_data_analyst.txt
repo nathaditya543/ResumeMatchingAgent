@@ -1,0 +1,21 @@
+Ava Andersen
+Email: ava.andersen@example.com | Phone: (936) 555-4228 | linkedin.com/in/avaandersen
+
+SUMMARY
+Data analyst with 4 years turning data into actionable business insights.
+
+EDUCATION
+University of Utah
+Bachelor of Science in Statistics, Graduated May 2018
+
+EXPERIENCE
+Data Analyst, Pathforge Inc. (Sep 2021 - Present)
+- Built SQL-based reporting used by 8 business teams for weekly decision-making
+- Automated recurring reports in Python/Pandas, saving 51 hours/week
+- Partnered with product to define and track key growth metrics
+
+Data Analyst, Vertex Analytics (Sep 2018 - Nov 2021)
+- Built dashboards in Google Analytics for marketing performance tracking
+
+SKILLS
+SQL, Python, Pandas, NumPy, Google Analytics, A/B Testing, Git

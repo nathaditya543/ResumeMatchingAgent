@@ -1,0 +1,21 @@
+Scarlett Garcia
+Email: scarlett.garcia@example.com | Phone: (365) 555-8239 | linkedin.com/in/scarlettgarcia
+
+SUMMARY
+Financial analyst with 10 years supporting FP&A and investment decisions.
+
+EDUCATION
+Ohio State University
+Bachelor of Science in Finance, Graduated May 2012
+
+EXPERIENCE
+Financial Analyst, Anchorpoint Tech (Mar 2020 - Present)
+- Built financial models forecasting $60M+ in annual revenue
+- Automated monthly reporting in Excel/SQL, reducing close time by 18%
+- Presented variance analysis to senior leadership on a quarterly basis
+
+Financial Analyst, Pathforge Inc. (Nov 2012 - May 2020)
+- Supported budgeting process for a mid-market manufacturing company
+
+SKILLS
+SQL, Financial Modeling, Excel, A/B Testing, Stakeholder Management

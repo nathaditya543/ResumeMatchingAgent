@@ -1,0 +1,23 @@
+Priya Nair
+Email: priya.nair@example.com | Phone: (415) 555-0142 | linkedin.com/in/priyanair
+
+SUMMARY
+Backend software engineer with 6 years of experience building scalable Python services and REST APIs.
+
+EDUCATION
+San Jose State University
+Bachelor of Science in Computer Science, Graduated May 2018
+GPA: 3.7/4.0
+
+EXPERIENCE
+Senior Software Engineer, Fintech Cloud Inc. (Jun 2021 - Present)
+- Designed and built microservices in Python (FastAPI, Django) handling 2M+ daily requests
+- Led migration from monolith to event-driven architecture using Kafka
+- Mentored 4 junior engineers and ran code review standards for the backend team
+
+Software Engineer, DataStream Systems (Jul 2018 - Jun 2021)
+- Built REST APIs with Flask and PostgreSQL for a payments processing platform
+- Implemented CI/CD pipelines using Jenkins and Docker, reducing deploy time by 40%
+
+SKILLS
+Python, Django, FastAPI, Flask, PostgreSQL, Kafka, Docker, Kubernetes, AWS, REST APIs, Git, Unit Testing

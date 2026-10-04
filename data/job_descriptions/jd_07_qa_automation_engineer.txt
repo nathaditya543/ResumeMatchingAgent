@@ -1,0 +1,14 @@
+QA Automation Engineer
+
+We are looking for a QA Automation Engineer to ensure the quality of our web and API products.
+
+Requirements:
+- 3+ years of experience in QA automation
+- Experience with Selenium and Python
+- Experience with API testing tools like Postman
+- Experience integrating automated tests into CI/CD pipelines
+
+Responsibilities:
+- Build and maintain automated test suites
+- Collaborate with developers to identify and fix defects
+- Improve testing processes and reduce release cycle time

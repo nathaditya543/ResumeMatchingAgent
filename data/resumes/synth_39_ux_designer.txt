@@ -1,0 +1,21 @@
+Levi Abbas
+Email: levi.abbas@example.com | Phone: (228) 555-2889 | linkedin.com/in/leviabbas
+
+SUMMARY
+UX designer with 9 years designing user-centered digital products.
+
+EDUCATION
+Rutgers University
+Bachelor of Fine Arts in Design, Graduated May 2020
+
+EXPERIENCE
+UX Designer, Pathforge Inc. (Nov 2024 - Present)
+- Led end-to-end UX design for a product used by 700K+ monthly active users
+- Ran usability studies that increased task completion rate by 32%
+- Built and maintained a design system adopted across 5 product teams
+
+UX Designer, Redwood Innovations (Sep 2020 - Jun 2024)
+- Designed wireframes and prototypes for a mobile app redesign
+
+SKILLS
+Figma, User Research, A/B Testing, Agile, Git

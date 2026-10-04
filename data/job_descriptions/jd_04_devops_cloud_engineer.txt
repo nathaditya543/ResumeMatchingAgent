@@ -1,0 +1,15 @@
+DevOps / Cloud Infrastructure Engineer
+
+We are looking for a DevOps Engineer to manage our cloud infrastructure and CI/CD pipelines.
+
+Requirements:
+- 4+ years of experience in DevOps or Site Reliability Engineering
+- Strong experience with AWS or GCP
+- Experience with Kubernetes, Docker, and Terraform
+- Experience with monitoring tools like Prometheus and Grafana
+- Scripting experience in Python or Bash
+
+Responsibilities:
+- Automate infrastructure provisioning using Terraform
+- Maintain Kubernetes clusters and CI/CD pipelines
+- Improve system reliability and on-call incident response

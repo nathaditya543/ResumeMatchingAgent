@@ -1,0 +1,12 @@
+{
+  "allowed_roots": [
+    "data",
+    "reports",
+    "milestone1",
+    "milestone2"
+  ],
+  "watch_state_file": ".watch_state.json",
+  "max_batch_size": 50,
+  "server_name": "filesystem-mcp-server",
+  "server_version": "1.0.0"
+}

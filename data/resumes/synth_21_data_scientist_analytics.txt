@@ -1,0 +1,21 @@
+Ruby Marino
+Email: ruby.marino@example.com | Phone: (802) 555-4770 | linkedin.com/in/rubymarino
+
+SUMMARY
+Data scientist with 7 years driving product decisions through experimentation and modeling.
+
+EDUCATION
+University of Minnesota
+Master of Science in Statistics, Graduated May 2015
+
+EXPERIENCE
+Data Scientist, Bluefield Technologies (Feb 2021 - Present)
+- Built predictive models in Python (scikit-learn, XGBoost) improving forecast accuracy by 38%
+- Ran 8+ A/B tests informing product roadmap decisions
+- Built dashboards in SQL/Pandas for executive reporting
+
+Data Scientist, Solstice Digital (Jun 2015 - Jan 2021)
+- Analyzed user behavior data to support marketing campaign targeting
+
+SKILLS
+Python, SQL, Pandas, NumPy, scikit-learn, XGBoost, Machine Learning, A/B Testing, Git

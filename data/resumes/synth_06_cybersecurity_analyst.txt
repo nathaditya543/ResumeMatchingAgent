@@ -1,0 +1,21 @@
+David Kim
+Email: david.kim@example.com | Phone: (703) 555-0161 | linkedin.com/in/davidkim
+
+SUMMARY
+Cybersecurity analyst with 6 years of experience in threat detection, incident response, and penetration testing.
+
+EDUCATION
+George Mason University
+Bachelor of Science in Cybersecurity, Graduated May 2018
+
+EXPERIENCE
+Senior Security Analyst, SecureNet Defense (Jan 2021 - Present)
+- Led incident response for security events across a 5,000-endpoint enterprise network
+- Performed penetration testing and vulnerability assessments using Burp Suite and Metasploit
+- Implemented SIEM (Splunk) rules that reduced false positives by 35%
+
+Security Analyst, GovShield Consulting (Jun 2018 - Jan 2021)
+- Monitored network traffic for intrusion detection using Snort and Wireshark
+
+SKILLS
+Penetration Testing, SIEM, Splunk, Burp Suite, Metasploit, Network Security, Python, Incident Response, NIST Framework

@@ -1,0 +1,21 @@
+Riley Sørensen
+Email: riley.sørensen@example.com | Phone: (867) 555-9856 | linkedin.com/in/rileysørensen
+
+SUMMARY
+Network engineer with 10 years designing and securing enterprise network infrastructure.
+
+EDUCATION
+Arizona State University
+Bachelor of Science in Information Technology, Graduated May 2013
+
+EXPERIENCE
+Network Engineer, Pathforge Inc. (Sep 2021 - Present)
+- Designed and maintained network infrastructure for a 400+ endpoint enterprise
+- Implemented network segmentation and firewall policies, improving security posture
+- Led migration to SD-WAN, reducing branch office latency by 42%
+
+Network Engineer, Solstice Digital (Feb 2013 - Jan 2021)
+- Monitored network traffic and responded to security incidents
+
+SKILLS
+Network Security, Linux, Bash, SIEM, Splunk, Python, Git

@@ -1,0 +1,14 @@
+Frontend Developer (React)
+
+We need a Frontend Developer to build modern, responsive web applications.
+
+Requirements:
+- 3+ years of experience with JavaScript and React
+- Experience with TypeScript
+- Familiarity with state management (Redux) and testing (Jest)
+- Strong eye for UI/UX and performance optimization
+
+Responsibilities:
+- Build and maintain customer-facing web applications
+- Collaborate with designers to implement pixel-perfect UI
+- Improve site performance and accessibility

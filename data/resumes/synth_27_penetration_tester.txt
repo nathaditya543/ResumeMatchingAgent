@@ -1,0 +1,21 @@
+Amelia Schmidt
+Email: amelia.schmidt@example.com | Phone: (953) 555-9883 | linkedin.com/in/ameliaschmidt
+
+SUMMARY
+Offensive security specialist with 7 years of penetration testing and red-team engagements.
+
+EDUCATION
+Purdue University
+Bachelor of Science in Cybersecurity, Graduated May 2015
+
+EXPERIENCE
+Penetration Tester, Skyward Analytics (Apr 2020 - Present)
+- Led 90+ penetration testing engagements using Burp Suite and Metasploit
+- Identified critical vulnerabilities that prevented an estimated $3300K in potential breach costs
+- Authored remediation reports and briefed executive stakeholders on risk
+
+Penetration Tester, Granite Peak Solutions (Jan 2015 - Oct 2020)
+- Performed vulnerability assessments for web applications
+
+SKILLS
+Penetration Testing, Burp Suite, Metasploit, Network Security, SIEM, Python, Linux

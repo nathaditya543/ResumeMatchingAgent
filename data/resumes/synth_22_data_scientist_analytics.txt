@@ -1,0 +1,21 @@
+Noah Kaur
+Email: noah.kaur@example.com | Phone: (485) 555-8953 | linkedin.com/in/noahkaur
+
+SUMMARY
+Data scientist with 6 years driving product decisions through experimentation and modeling.
+
+EDUCATION
+University of Minnesota
+Master of Science in Statistics, Graduated May 2012
+
+EXPERIENCE
+Data Scientist, Vertex Analytics (Feb 2016 - Present)
+- Built predictive models in Python (scikit-learn, XGBoost) improving forecast accuracy by 19%
+- Ran 2+ A/B tests informing product roadmap decisions
+- Built dashboards in SQL/Pandas for executive reporting
+
+Data Scientist, Meridian Software (Sep 2012 - Apr 2016)
+- Analyzed user behavior data to support marketing campaign targeting
+
+SKILLS
+Python, SQL, Pandas, NumPy, scikit-learn, XGBoost, Machine Learning, A/B Testing, Git

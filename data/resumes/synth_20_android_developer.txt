@@ -1,0 +1,21 @@
+Aiden Andersen
+Email: aiden.andersen@example.com | Phone: (906) 555-4295 | linkedin.com/in/aidenandersen
+
+SUMMARY
+Android developer with 5 years shipping consumer mobile apps in Kotlin and Java.
+
+EDUCATION
+University of Florida
+Bachelor of Science in Computer Science, Graduated May 2021
+
+EXPERIENCE
+Android Developer, Summit Cloud Group (Apr 2024 - Present)
+- Shipped and maintained an Android app with 4M+ installs using Kotlin and Jetpack Compose
+- Reduced app cold-start time by 45% through profiling and lazy initialization
+- Integrated REST APIs and local caching (Room) for offline-first functionality
+
+Android Developer, Pathforge Inc. (Sep 2021 - Dec 2024)
+- Built UI components in Java for an early-stage Android app
+
+SKILLS
+Java, Kotlin, Android, REST APIs, Git, Agile, Mobile Testing, SQL

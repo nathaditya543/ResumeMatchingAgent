@@ -1,0 +1,15 @@
+Cybersecurity Analyst
+
+We are seeking a Cybersecurity Analyst to protect our enterprise network and respond to security incidents.
+
+Requirements:
+- 4+ years of experience in cybersecurity or information security
+- Experience with SIEM tools such as Splunk
+- Experience with penetration testing tools (Burp Suite, Metasploit)
+- Knowledge of network security and incident response procedures
+- Scripting skills in Python are a plus
+
+Responsibilities:
+- Monitor network traffic and investigate security incidents
+- Perform vulnerability assessments and penetration tests
+- Develop and maintain security policies and playbooks

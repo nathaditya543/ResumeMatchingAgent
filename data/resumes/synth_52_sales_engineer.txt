@@ -1,0 +1,21 @@
+Dominic Andersen
+Email: dominic.andersen@example.com | Phone: (817) 555-4613 | linkedin.com/in/dominicandersen
+
+SUMMARY
+Sales engineer with 9 years supporting technical pre-sales for enterprise software.
+
+EDUCATION
+University of Maryland
+Bachelor of Science in Computer Science, Graduated May 2018
+
+EXPERIENCE
+Sales Engineer, Silverline Partners (Dec 2024 - Present)
+- Ran technical product demos closing $9M+ in annual contract value
+- Built proof-of-concept integrations using REST APIs for prospective customers
+- Partnered with account executives on 15+ enterprise deals per year
+
+Sales Engineer, Clearwater Systems (Dec 2018 - Sep 2024)
+- Supported customer onboarding and technical Q&A during trials
+
+SKILLS
+REST APIs, SQL, Agile, Stakeholder Management, Git

@@ -1,0 +1,21 @@
+Ella Dubois
+Email: ella.dubois@example.com | Phone: (896) 555-7916 | linkedin.com/in/elladubois
+
+SUMMARY
+Data engineer with 8 years building large-scale batch and streaming pipelines.
+
+EDUCATION
+Indiana University Bloomington
+Bachelor of Science in Computer Science, Graduated May 2012
+
+EXPERIENCE
+Data Engineer, Granite Peak Solutions (Mar 2019 - Present)
+- Built ETL pipelines in Python and Spark processing 5TB of data daily
+- Orchestrated workflows with Airflow, reducing pipeline failures by 23%
+- Designed a data warehouse schema on Snowflake/PostgreSQL serving analytics teams
+
+Data Engineer, Cobalt Digital (Nov 2012 - Mar 2019)
+- Maintained Kafka-based streaming ingestion for real-time event data
+
+SKILLS
+Python, SQL, Spark, Airflow, Kafka, AWS, Docker, PostgreSQL, MongoDB, Git

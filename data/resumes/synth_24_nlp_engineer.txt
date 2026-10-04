@@ -1,0 +1,21 @@
+Layla Andersen
+Email: layla.andersen@example.com | Phone: (396) 555-4116 | linkedin.com/in/laylaandersen
+
+SUMMARY
+Machine learning engineer with 8 years specializing in NLP and deep learning.
+
+EDUCATION
+Ohio State University
+Master of Science in Computer Science (Machine Learning), Graduated May 2018
+
+EXPERIENCE
+NLP / Deep Learning Engineer, Vertex Analytics (Jun 2023 - Present)
+- Fine-tuned transformer models (Hugging Face) for classification, improving F1 by 41%
+- Deployed NLP models via TensorFlow/PyTorch serving 800K+ requests/day
+- Built a retrieval-augmented generation pipeline for internal knowledge search
+
+NLP / Deep Learning Engineer, BrightPath Labs (Feb 2018 - Apr 2023)
+- Built text preprocessing pipelines for a document classification project
+
+SKILLS
+Python, Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch, Hugging Face, SQL, Docker, AWS

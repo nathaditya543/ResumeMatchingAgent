@@ -1,0 +1,21 @@
+Zoe Marino
+Email: zoe.marino@example.com | Phone: (408) 555-5325 | linkedin.com/in/zoemarino
+
+SUMMARY
+Financial analyst with 5 years supporting FP&A and investment decisions.
+
+EDUCATION
+University of Colorado Boulder
+Bachelor of Science in Finance, Graduated May 2016
+
+EXPERIENCE
+Financial Analyst, Skyward Analytics (Apr 2018 - Present)
+- Built financial models forecasting $60M+ in annual revenue
+- Automated monthly reporting in Excel/SQL, reducing close time by 22%
+- Presented variance analysis to senior leadership on a quarterly basis
+
+Financial Analyst, Ironclad Technologies (Dec 2016 - Jun 2018)
+- Supported budgeting process for a mid-market manufacturing company
+
+SKILLS
+SQL, Financial Modeling, Excel, A/B Testing, Stakeholder Management

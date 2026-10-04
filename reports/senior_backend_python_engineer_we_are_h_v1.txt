@@ -1,0 +1,126 @@
+# Candidate Match Report
+
+## Job Description
+
+Senior Backend Python Engineer
+
+We are hiring a Senior Backend Engineer to build scalable REST APIs and microservices.
+
+Requirements:
+- 5+ years of experience with Python
+- Strong experience with Django or FastAPI
+- Experience with PostgreSQL and message queues (Kafka or RabbitMQ)
+- Experience with Docker and Kubernetes
+- Familiarity with AWS cloud infrastructure
+
+Responsibilities:
+- Design and implement backend services handling high request volume
+- Mentor junior engineers and participate in code reviews
+- Collaborate with product managers to define technical requirements
+
+## Requirements
+
+- Must-have skills: AWS, Django, Docker, FastAPI, Kafka, Kubernetes, PostgreSQL, Python, REST APIs, RabbitMQ
+- Nice-to-have skills: none detected
+- Experience requirements: 5+ years of Python
+
+## Ranked Candidates
+
+### Priya Nair (synth_01_software_engineer_python) — **Hire**
+
+- Match score: 83/100
+- Meets must-have requirements: True
+- Experience: 6 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Django, Docker, FastAPI, Kafka, Kubernetes, PostgreSQL, Python, REST APIs
+- Gaps: RabbitMQ
+- Reasoning: Matched skills: AWS, Django, Docker, FastAPI, Kafka, Kubernetes, PostgreSQL, Python, REST APIs. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.79, keyword overlap 0.90.
+
+### Amara Johnson (synth_09_fullstack_developer) — **Consider (borderline)**
+
+- Match score: 61/100
+- Meets must-have requirements: True
+- Experience: 8 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Django, Docker, PostgreSQL, Python, REST APIs
+- Gaps: FastAPI, Kafka, Kubernetes, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: FastAPI, Kafka, Kubernetes, RabbitMQ
+- Reasoning: Matched skills: AWS, Django, Docker, PostgreSQL, Python, REST APIs. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.61, keyword overlap 0.60.
+
+### Ella Dubois (synth_15_data_engineer) — **Consider (borderline)**
+
+- Match score: 50/100
+- Meets must-have requirements: True
+- Experience: 8 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Kafka, PostgreSQL, Python
+- Gaps: Django, FastAPI, Kubernetes, REST APIs, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Django, FastAPI, Kubernetes, REST APIs, RabbitMQ
+- Reasoning: Matched skills: AWS, Docker, Kafka, PostgreSQL, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.50, keyword overlap 0.50.
+
+### Ethan Weber (synth_16_data_engineer) — **Consider (borderline)**
+
+- Match score: 50/100
+- Meets must-have requirements: True
+- Experience: 4 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Kafka, PostgreSQL, Python
+- Gaps: Django, FastAPI, Kubernetes, REST APIs, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Django, FastAPI, Kubernetes, REST APIs, RabbitMQ
+- Reasoning: Matched skills: AWS, Docker, Kafka, PostgreSQL, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.50, keyword overlap 0.50.
+
+### James O'Brien (synth_04_devops_engineer) — **No Hire**
+
+- Match score: 49/100
+- Meets must-have requirements: True
+- Experience: 7 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Kubernetes, Python
+- Gaps: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Reasoning: Matched skills: AWS, Docker, Kubernetes, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.54, keyword overlap 0.40.
+
+### Hiroshi Tanaka (synth_10_cloud_ml_engineer) — **No Hire**
+
+- Match score: 48/100
+- Meets must-have requirements: True
+- Experience: 6 years, Education: Master's
+- Matched skills (strengths): AWS, Docker, Kubernetes, Python
+- Gaps: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Reasoning: Matched skills: AWS, Docker, Kubernetes, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.53, keyword overlap 0.40.
+
+### Aria Haddad (synth_44_cloud_solutions_architect) — **No Hire**
+
+- Match score: 48/100
+- Meets must-have requirements: True
+- Experience: 9 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Kubernetes, Python
+- Gaps: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Reasoning: Matched skills: AWS, Docker, Kubernetes, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.53, keyword overlap 0.40.
+
+### Ella Okafor (synth_43_cloud_solutions_architect) — **No Hire**
+
+- Match score: 48/100
+- Meets must-have requirements: True
+- Experience: 8 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Kubernetes, Python
+- Gaps: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Reasoning: Matched skills: AWS, Docker, Kubernetes, Python. Strong semantic match in section(s): SKILLS, SUMMARY. Semantic similarity 0.52, keyword overlap 0.40.
+
+### synth 17 site reliability engineer (synth_17_site_reliability_engineer) — **No Hire**
+
+- Match score: 44/100
+- Meets must-have requirements: True
+- Experience: 7 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Kubernetes, Python
+- Gaps: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Reasoning: Matched skills: AWS, Docker, Kubernetes, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS. Semantic similarity 0.45, keyword overlap 0.40.
+
+### Carter Garcia (synth_18_site_reliability_engineer) — **No Hire**
+
+- Match score: 43/100
+- Meets must-have requirements: True
+- Experience: 4 years, Education: Bachelor's
+- Matched skills (strengths): AWS, Docker, Kubernetes, Python
+- Gaps: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Django, FastAPI, Kafka, PostgreSQL, REST APIs, RabbitMQ
+- Reasoning: Matched skills: AWS, Docker, Kubernetes, Python. Strong semantic match in section(s): EXPERIENCE, SKILLS. Semantic similarity 0.45, keyword overlap 0.40.

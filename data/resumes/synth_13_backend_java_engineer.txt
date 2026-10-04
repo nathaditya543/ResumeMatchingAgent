@@ -1,0 +1,21 @@
+Lucas Kim
+Email: lucas.kim@example.com | Phone: (417) 555-9179 | linkedin.com/in/lucaskim
+
+SUMMARY
+Backend engineer with 8 years building high-throughput Java services.
+
+EDUCATION
+University of Colorado Boulder
+Bachelor of Science in Computer Science, Graduated May 2013
+
+EXPERIENCE
+Backend Software Engineer, Nimbus Works (Oct 2020 - Present)
+- Designed REST APIs in Java (Spring Boot) handling 2K+ requests per minute
+- Migrated a monolith to microservices, reducing deployment time by 29%
+- Optimized SQL queries against PostgreSQL, cutting average latency by 17%
+
+Backend Software Engineer, Clearwater Systems (Dec 2013 - Jun 2020)
+- Built internal tooling in Java and maintained CI/CD pipelines with Jenkins
+
+SKILLS
+Java, Spring Boot, PostgreSQL, MySQL, Kafka, Docker, Kubernetes, AWS, REST APIs, Git, CI/CD

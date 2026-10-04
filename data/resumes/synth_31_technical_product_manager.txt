@@ -1,0 +1,21 @@
+Mia Santos
+Email: mia.santos@example.com | Phone: (270) 555-5002 | linkedin.com/in/miasantos
+
+SUMMARY
+Technical product manager with 3 years leading API and platform products.
+
+EDUCATION
+University of Florida
+Master of Business Administration, Graduated May 2015
+
+EXPERIENCE
+Technical Product Manager, BrightPath Labs (May 2015 - Present)
+- Owned roadmap for a developer platform product used by 900+ engineering teams
+- Partnered with engineering to ship 54 major releases per year using Agile/Scrum
+- Defined API product requirements and SLAs with cross-functional stakeholders
+
+Technical Product Manager, Cobalt Digital (Mar 2015 - Jun 2015)
+- Managed backlog and sprint planning for an internal tools team
+
+SKILLS
+Product Strategy, Agile, Jira, SQL, A/B Testing, REST APIs, Stakeholder Management

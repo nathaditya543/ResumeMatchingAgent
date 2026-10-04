@@ -1,0 +1,21 @@
+Amara Johnson
+Email: amara.johnson@example.com | Phone: (404) 555-0122 | linkedin.com/in/amarajohnson
+
+SUMMARY
+Full-stack developer with 8 years of experience across Python, JavaScript, and cloud infrastructure.
+
+EDUCATION
+Georgia Institute of Technology
+Bachelor of Science in Computer Science, Graduated May 2016
+
+EXPERIENCE
+Lead Full-Stack Developer, HealthLink Systems (Sep 2019 - Present)
+- Architected full-stack application using Python/Django backend and React frontend serving 100K patients
+- Led team of 5 engineers delivering HIPAA-compliant features
+- Designed PostgreSQL schema and optimized queries, reducing page load time by 60%
+
+Full-Stack Developer, Bluepeak Software (Jun 2016 - Sep 2019)
+- Built internal tools using Node.js, Express, and React
+
+SKILLS
+Python, Django, JavaScript, React, Node.js, Express, PostgreSQL, AWS, Docker, REST APIs, Git

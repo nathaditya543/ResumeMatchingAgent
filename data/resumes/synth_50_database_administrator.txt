@@ -1,0 +1,21 @@
+Ivy Costa
+Email: ivy.costa@example.com | Phone: (592) 555-3503 | linkedin.com/in/ivycosta
+
+SUMMARY
+Database administrator with 4 years managing high-availability relational databases.
+
+EDUCATION
+Boston University
+Bachelor of Science in Computer Science, Graduated May 2020
+
+EXPERIENCE
+Database Administrator, Nimbus Works (Mar 2023 - Present)
+- Administered PostgreSQL/MySQL clusters supporting 6TB+ of production data
+- Reduced query latency by 30% through indexing and query optimization
+- Implemented backup/disaster-recovery procedures meeting a 32-minute RPO
+
+Database Administrator, Vantage Cloud (Mar 2020 - Apr 2023)
+- Performed routine database maintenance and capacity planning
+
+SKILLS
+PostgreSQL, MySQL, SQL, Linux, Bash, AWS, Git

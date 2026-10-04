@@ -1,0 +1,21 @@
+Amelia Rahman
+Email: amelia.rahman@example.com | Phone: (399) 555-7291 | linkedin.com/in/ameliarahman
+
+SUMMARY
+Game developer with 6 years building gameplay systems for mobile and PC titles.
+
+EDUCATION
+North Carolina State University
+Bachelor of Science in Computer Science, Graduated May 2013
+
+EXPERIENCE
+Game Developer, Meridian Software (Jul 2017 - Present)
+- Shipped 4 titles with combined 16M+ downloads using C++ and Unity
+- Built multiplayer networking systems supporting real-time gameplay
+- Optimized rendering pipeline, improving frame rate by 17%
+
+Game Developer, Granite Peak Solutions (Nov 2013 - Oct 2017)
+- Built gameplay prototypes in C++ for an indie studio
+
+SKILLS
+C++, Git, Agile, REST APIs, Linux

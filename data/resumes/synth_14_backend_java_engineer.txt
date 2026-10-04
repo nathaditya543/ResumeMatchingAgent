@@ -1,0 +1,21 @@
+Wyatt Costa
+Email: wyatt.costa@example.com | Phone: (638) 555-7543 | linkedin.com/in/wyattcosta
+
+SUMMARY
+Backend engineer with 9 years building high-throughput Java services.
+
+EDUCATION
+University of Utah
+Bachelor of Science in Computer Science, Graduated May 2020
+
+EXPERIENCE
+Backend Software Engineer, Ironclad Technologies (May 2024 - Present)
+- Designed REST APIs in Java (Spring Boot) handling 9K+ requests per minute
+- Migrated a monolith to microservices, reducing deployment time by 24%
+- Optimized SQL queries against PostgreSQL, cutting average latency by 31%
+
+Backend Software Engineer, Meridian Software (Dec 2020 - Oct 2024)
+- Built internal tooling in Java and maintained CI/CD pipelines with Jenkins
+
+SKILLS
+Java, Spring Boot, PostgreSQL, MySQL, Kafka, Docker, Kubernetes, AWS, REST APIs, Git, CI/CD

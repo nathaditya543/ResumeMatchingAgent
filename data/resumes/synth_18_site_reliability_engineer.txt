@@ -1,0 +1,21 @@
+Carter Garcia
+Email: carter.garcia@example.com | Phone: (813) 555-6310 | linkedin.com/in/cartergarcia
+
+SUMMARY
+SRE with 4 years improving uptime and observability for cloud services.
+
+EDUCATION
+Purdue University
+Bachelor of Science in Computer Engineering, Graduated May 2017
+
+EXPERIENCE
+Site Reliability Engineer, Vantage Cloud (Sep 2020 - Present)
+- Maintained 69.9% uptime SLA across a fleet of Kubernetes clusters on AWS/GCP
+- Built Prometheus/Grafana dashboards and alerting, cutting incident detection time by 55%
+- Automated infrastructure provisioning with Terraform across multiple environments
+
+Site Reliability Engineer, Lumen Data Co. (Sep 2017 - Jan 2020)
+- Ran on-call rotations and wrote postmortems for production incidents
+
+SKILLS
+AWS, GCP, Kubernetes, Docker, Terraform, Prometheus, Grafana, Python, Bash, Linux, CI/CD

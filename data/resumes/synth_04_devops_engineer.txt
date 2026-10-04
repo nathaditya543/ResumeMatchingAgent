@@ -1,0 +1,22 @@
+James O'Brien
+Email: james.obrien@example.com | Phone: (312) 555-0134 | linkedin.com/in/jamesobrien
+
+SUMMARY
+DevOps engineer with 7 years of experience automating infrastructure and CI/CD pipelines on AWS.
+
+EDUCATION
+University of Illinois Urbana-Champaign
+Bachelor of Science in Computer Engineering, Graduated May 2016
+
+EXPERIENCE
+Senior DevOps Engineer, CloudScale Corp (Mar 2020 - Present)
+- Managed Kubernetes clusters across AWS and GCP supporting 200+ microservices
+- Built infrastructure-as-code with Terraform, cutting environment provisioning time by 70%
+- Implemented Prometheus/Grafana monitoring stack and on-call runbooks
+
+DevOps Engineer, Midwest Software (Jul 2016 - Mar 2020)
+- Automated CI/CD pipelines using Jenkins and GitLab CI
+- Managed Docker containerization for 30+ internal services
+
+SKILLS
+AWS, GCP, Kubernetes, Docker, Terraform, Jenkins, GitLab CI, Python, Bash, Prometheus, Grafana, Linux

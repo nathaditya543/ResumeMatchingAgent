@@ -1,0 +1,21 @@
+Leo Weber
+Email: leo.weber@example.com | Phone: (330) 555-1685 | linkedin.com/in/leoweber
+
+SUMMARY
+HR manager with 9 years leading talent acquisition and employee relations.
+
+EDUCATION
+Ohio State University
+Bachelor of Arts in Human Resources, Graduated May 2017
+
+EXPERIENCE
+HR Manager, Ironclad Technologies (Sep 2023 - Present)
+- Managed full-cycle recruiting for 20+ hires per year across engineering and sales
+- Redesigned onboarding program, improving 90-day retention by 22%
+- Led employee engagement initiatives across a 200-person organization
+
+HR Manager, Skyward Analytics (Mar 2017 - Jul 2023)
+- Coordinated benefits administration and HR compliance
+
+SKILLS
+Stakeholder Management, Agile, Jira

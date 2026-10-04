@@ -1,0 +1,21 @@
+Julian Haddad
+Email: julian.haddad@example.com | Phone: (390) 555-2122 | linkedin.com/in/julianhaddad
+
+SUMMARY
+Offensive security specialist with 3 years of penetration testing and red-team engagements.
+
+EDUCATION
+University of Florida
+Bachelor of Science in Cybersecurity, Graduated May 2020
+
+EXPERIENCE
+Penetration Tester, Riverstone Labs (Jan 2022 - Present)
+- Led 70+ penetration testing engagements using Burp Suite and Metasploit
+- Identified critical vulnerabilities that prevented an estimated $1800K in potential breach costs
+- Authored remediation reports and briefed executive stakeholders on risk
+
+Penetration Tester, Granite Peak Solutions (Sep 2020 - Feb 2022)
+- Performed vulnerability assessments for web applications
+
+SKILLS
+Penetration Testing, Burp Suite, Metasploit, Network Security, SIEM, Python, Linux

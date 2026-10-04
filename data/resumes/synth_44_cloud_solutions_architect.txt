@@ -1,0 +1,21 @@
+Aria Haddad
+Email: aria.haddad@example.com | Phone: (652) 555-8244 | linkedin.com/in/ariahaddad
+
+SUMMARY
+Cloud architect with 9 years designing scalable AWS/Azure infrastructure.
+
+EDUCATION
+Indiana University Bloomington
+Bachelor of Science in Computer Science, Graduated May 2021
+
+EXPERIENCE
+Cloud Solutions Architect, Lumen Data Co. (Nov 2024 - Present)
+- Designed multi-region AWS architecture supporting 2M+ users
+- Led cloud migration reducing infrastructure costs by 34%
+- Established Terraform-based infrastructure-as-code standards across teams
+
+Cloud Solutions Architect, Anchorpoint Tech (Jun 2021 - Aug 2024)
+- Built CI/CD pipelines for cloud-native applications
+
+SKILLS
+AWS, Azure, GCP, Terraform, Kubernetes, Docker, CI/CD, Python, Linux

@@ -1,0 +1,21 @@
+Noah Suzuki
+Email: noah.suzuki@example.com | Phone: (697) 555-2133 | linkedin.com/in/noahsuzuki
+
+SUMMARY
+Android developer with 10 years shipping consumer mobile apps in Kotlin and Java.
+
+EDUCATION
+Ohio State University
+Bachelor of Science in Computer Science, Graduated May 2015
+
+EXPERIENCE
+Android Developer, Silverline Partners (Feb 2022 - Present)
+- Shipped and maintained an Android app with 2M+ installs using Kotlin and Jetpack Compose
+- Reduced app cold-start time by 22% through profiling and lazy initialization
+- Integrated REST APIs and local caching (Room) for offline-first functionality
+
+Android Developer, Meridian Software (Feb 2015 - Dec 2022)
+- Built UI components in Java for an early-stage Android app
+
+SKILLS
+Java, Kotlin, Android, REST APIs, Git, Agile, Mobile Testing, SQL

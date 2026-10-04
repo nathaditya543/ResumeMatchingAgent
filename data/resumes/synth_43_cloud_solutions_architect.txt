@@ -1,0 +1,21 @@
+Ella Okafor
+Email: ella.okafor@example.com | Phone: (782) 555-5930 | linkedin.com/in/ellaokafor
+
+SUMMARY
+Cloud architect with 8 years designing scalable AWS/Azure infrastructure.
+
+EDUCATION
+University of Wisconsin-Madison
+Bachelor of Science in Computer Science, Graduated May 2018
+
+EXPERIENCE
+Cloud Solutions Architect, Ironclad Technologies (Dec 2023 - Present)
+- Designed multi-region AWS architecture supporting 8M+ users
+- Led cloud migration reducing infrastructure costs by 33%
+- Established Terraform-based infrastructure-as-code standards across teams
+
+Cloud Solutions Architect, Lumen Data Co. (Mar 2018 - Oct 2023)
+- Built CI/CD pipelines for cloud-native applications
+
+SKILLS
+AWS, Azure, GCP, Terraform, Kubernetes, Docker, CI/CD, Python, Linux

@@ -1,0 +1,127 @@
+# Candidate Match Report
+
+## Job Description
+
+Cybersecurity Analyst
+
+We are seeking a Cybersecurity Analyst to protect our enterprise network and respond to security incidents.
+
+Requirements:
+- 4+ years of experience in cybersecurity or information security
+- Experience with SIEM tools such as Splunk
+- Experience with penetration testing tools (Burp Suite, Metasploit)
+- Knowledge of network security and incident response procedures
+- Scripting skills in Python are a plus
+
+Responsibilities:
+- Monitor network traffic and investigate security incidents
+- Perform vulnerability assessments and penetration tests
+- Develop and maintain security policies and playbooks
+
+Additional requirement from hiring manager: Require 4+ years of Penetration Testing experience.
+
+## Requirements
+
+- Must-have skills: Burp Suite, Metasploit, Network Security, Penetration Testing, Python, SIEM, Splunk
+- Nice-to-have skills: none detected
+- Experience requirements: 4+ years of experience, 4+ years of Penetration Testing
+
+## Ranked Candidates
+
+### David Kim (synth_06_cybersecurity_analyst) — **Hire**
+
+- Match score: 87/100
+- Meets must-have requirements: True
+- Experience: 6 years, Education: Bachelor's
+- Matched skills (strengths): Burp Suite, Metasploit, Network Security, Penetration Testing, Python, SIEM, Splunk
+- Gaps: none
+- Reasoning: Matched skills: Burp Suite, Metasploit, Network Security, Penetration Testing, Python, SIEM, Splunk. Strong semantic match in section(s): EDUCATION, EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.79, keyword overlap 1.00.
+
+### Amelia Schmidt (synth_27_penetration_tester) — **Hire**
+
+- Match score: 71/100
+- Meets must-have requirements: True
+- Experience: 7 years, Education: Bachelor's
+- Matched skills (strengths): Burp Suite, Metasploit, Network Security, Penetration Testing, Python, SIEM
+- Gaps: Splunk
+- Reasoning: Matched skills: Burp Suite, Metasploit, Network Security, Penetration Testing, Python, SIEM. Strong semantic match in section(s): EDUCATION, EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.64, keyword overlap 0.86.
+
+### Julian Haddad (synth_28_penetration_tester) — **Consider (borderline)**
+
+- Match score: 71/100
+- Meets must-have requirements: False
+- Experience: 3 years, Education: Bachelor's
+- Matched skills (strengths): Burp Suite, Metasploit, Network Security, Penetration Testing, Python, SIEM
+- Gaps: Splunk
+- Improvement suggestions: Does not clearly meet one or more must-have requirements from the JD.
+- Reasoning: Matched skills: Burp Suite, Metasploit, Network Security, Penetration Testing, Python, SIEM. Strong semantic match in section(s): EDUCATION, EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.63, keyword overlap 0.86. Does not meet must-have requirements: Requires 4+ years, candidate has 3.
+
+### Wyatt Patel (synth_26_network_engineer) — **Consider (borderline)**
+
+- Match score: 56/100
+- Meets must-have requirements: False
+- Experience: 3 years, Education: Bachelor's
+- Matched skills (strengths): Network Security, Python, SIEM, Splunk
+- Gaps: Burp Suite, Metasploit, Penetration Testing
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Burp Suite, Metasploit, Penetration Testing Does not clearly meet one or more must-have requirements from the JD.
+- Reasoning: Matched skills: Network Security, Python, SIEM, Splunk. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.56, keyword overlap 0.57. Does not meet must-have requirements: Requires 4+ years, candidate has 3; Missing required skill: Penetration Testing.
+
+### synth 25 network engineer (synth_25_network_engineer) — **Consider (borderline)**
+
+- Match score: 55/100
+- Meets must-have requirements: False
+- Experience: 10 years, Education: Bachelor's
+- Matched skills (strengths): Network Security, Python, SIEM, Splunk
+- Gaps: Burp Suite, Metasploit, Penetration Testing
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Burp Suite, Metasploit, Penetration Testing Does not clearly meet one or more must-have requirements from the JD.
+- Reasoning: Matched skills: Network Security, Python, SIEM, Splunk. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.54, keyword overlap 0.57. Does not meet must-have requirements: Missing required skill: Penetration Testing.
+
+### Tom Baker (synth_08_qa_engineer) — **No Hire**
+
+- Match score: 35/100
+- Meets must-have requirements: False
+- Experience: 5 years, Education: MBA
+- Matched skills (strengths): Python
+- Gaps: Burp Suite, Metasploit, Network Security, Penetration Testing, SIEM, Splunk
+- Improvement suggestions: Does not clearly meet one or more must-have requirements from the JD.
+- Reasoning: Matched skills: Python. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.46, keyword overlap 0.14. Does not meet must-have requirements: Missing required skill: Penetration Testing.
+
+### Amara Johnson (synth_09_fullstack_developer) — **No Hire**
+
+- Match score: 35/100
+- Meets must-have requirements: False
+- Experience: 8 years, Education: Bachelor's
+- Matched skills (strengths): Python
+- Gaps: Burp Suite, Metasploit, Network Security, Penetration Testing, SIEM, Splunk
+- Improvement suggestions: Does not clearly meet one or more must-have requirements from the JD.
+- Reasoning: Matched skills: Python. Strong semantic match in section(s): SUMMARY. Semantic similarity 0.46, keyword overlap 0.14. Does not meet must-have requirements: Missing required skill: Penetration Testing.
+
+### James O'Brien (synth_04_devops_engineer) — **No Hire**
+
+- Match score: 34/100
+- Meets must-have requirements: False
+- Experience: 7 years, Education: Bachelor's
+- Matched skills (strengths): Python
+- Gaps: Burp Suite, Metasploit, Network Security, Penetration Testing, SIEM, Splunk
+- Improvement suggestions: Does not clearly meet one or more must-have requirements from the JD.
+- Reasoning: Matched skills: Python. Strong semantic match in section(s): SUMMARY. Semantic similarity 0.45, keyword overlap 0.14. Does not meet must-have requirements: Missing required skill: Penetration Testing.
+
+### Marcus Chen (synth_02_data_scientist_ml) — **No Hire**
+
+- Match score: 34/100
+- Meets must-have requirements: False
+- Experience: 5 years, Education: Master's
+- Matched skills (strengths): Python
+- Gaps: Burp Suite, Metasploit, Network Security, Penetration Testing, SIEM, Splunk
+- Improvement suggestions: Does not clearly meet one or more must-have requirements from the JD.
+- Reasoning: Matched skills: Python. Strong semantic match in section(s): SUMMARY. Semantic similarity 0.45, keyword overlap 0.14. Does not meet must-have requirements: Missing required skill: Penetration Testing.
+
+### Priya Nair (synth_01_software_engineer_python) — **No Hire**
+
+- Match score: 34/100
+- Meets must-have requirements: False
+- Experience: 6 years, Education: Bachelor's
+- Matched skills (strengths): Python
+- Gaps: Burp Suite, Metasploit, Network Security, Penetration Testing, SIEM, Splunk
+- Improvement suggestions: Does not clearly meet one or more must-have requirements from the JD.
+- Reasoning: Matched skills: Python. Strong semantic match in section(s): SUMMARY. Semantic similarity 0.45, keyword overlap 0.14. Does not meet must-have requirements: Missing required skill: Penetration Testing.

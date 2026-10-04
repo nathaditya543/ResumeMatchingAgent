@@ -1,0 +1,21 @@
+Amelia Wallace
+Email: amelia.wallace@example.com | Phone: (988) 555-1320 | linkedin.com/in/ameliawallace
+
+SUMMARY
+Sales engineer with 6 years supporting technical pre-sales for enterprise software.
+
+EDUCATION
+Virginia Tech
+Bachelor of Science in Computer Science, Graduated May 2018
+
+EXPERIENCE
+Sales Engineer, Nimbus Works (Apr 2023 - Present)
+- Ran technical product demos closing $3M+ in annual contract value
+- Built proof-of-concept integrations using REST APIs for prospective customers
+- Partnered with account executives on 41+ enterprise deals per year
+
+Sales Engineer, Skyward Analytics (Jul 2018 - Jul 2023)
+- Supported customer onboarding and technical Q&A during trials
+
+SKILLS
+REST APIs, SQL, Agile, Stakeholder Management, Git

@@ -1,0 +1,21 @@
+Talia Alvarez
+Email: talia.alvarez@example.com | Phone: (481) 555-8206 | linkedin.com/in/taliaalvarez
+
+SUMMARY
+Database administrator with 10 years managing high-availability relational databases.
+
+EDUCATION
+University of Maryland
+Bachelor of Science in Computer Science, Graduated May 2016
+
+EXPERIENCE
+Database Administrator, Pathforge Inc. (Aug 2023 - Present)
+- Administered PostgreSQL/MySQL clusters supporting 4TB+ of production data
+- Reduced query latency by 45% through indexing and query optimization
+- Implemented backup/disaster-recovery procedures meeting a 43-minute RPO
+
+Database Administrator, Meridian Software (Nov 2016 - Apr 2023)
+- Performed routine database maintenance and capacity planning
+
+SKILLS
+PostgreSQL, MySQL, SQL, Linux, Bash, AWS, Git

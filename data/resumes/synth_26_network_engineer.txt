@@ -1,0 +1,21 @@
+Wyatt Patel
+Email: wyatt.patel@example.com | Phone: (202) 555-7396 | linkedin.com/in/wyattpatel
+
+SUMMARY
+Network engineer with 3 years designing and securing enterprise network infrastructure.
+
+EDUCATION
+Virginia Tech
+Bachelor of Science in Information Technology, Graduated May 2015
+
+EXPERIENCE
+Network Engineer, Anchorpoint Tech (Jan 2016 - Present)
+- Designed and maintained network infrastructure for a 300+ endpoint enterprise
+- Implemented network segmentation and firewall policies, improving security posture
+- Led migration to SD-WAN, reducing branch office latency by 30%
+
+Network Engineer, Granite Peak Solutions (Mar 2015 - Jul 2016)
+- Monitored network traffic and responded to security incidents
+
+SKILLS
+Network Security, Linux, Bash, SIEM, Splunk, Python, Git

@@ -1,0 +1,104 @@
+# Candidate Match Report
+
+## Job Description
+
+Looking for a frontend engineer with React and at least 3 years of experience, who also knows TypeScript and Redux.
+
+## Requirements
+
+- Must-have skills: React, Redux, TypeScript
+- Nice-to-have skills: none detected
+- Experience requirements: 3+ years of experience
+
+## Ranked Candidates
+
+### Elena Torres (synth_03_frontend_developer_react) — **Hire**
+
+- Match score: 85/100
+- Meets must-have requirements: True
+- Experience: 4 years, Education: Bachelor's
+- Matched skills (strengths): React, Redux, TypeScript
+- Gaps: none
+- Reasoning: Matched skills: React, Redux, TypeScript. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.78, keyword overlap 1.00.
+
+### Amara Johnson (synth_09_fullstack_developer) — **No Hire**
+
+- Match score: 42/100
+- Meets must-have requirements: True
+- Experience: 8 years, Education: Bachelor's
+- Matched skills (strengths): React
+- Gaps: Redux, TypeScript
+- Improvement suggestions: Borderline match -- would rank higher with evidence of: Redux, TypeScript
+- Reasoning: Matched skills: React. Strong semantic match in section(s): EXPERIENCE, SKILLS, SUMMARY. Semantic similarity 0.46, keyword overlap 0.33.
+
+### Jiaming  Chen (Resume_CV_Samples-11) — **No Hire**
+
+- Match score: 29/100
+- Meets must-have requirements: True
+- Experience: 5 years, Education: MBA
+- Matched skills (strengths): none
+- Gaps: React, Redux, TypeScript
+- Reasoning: Strong semantic match in section(s): EXPERIENCE, HEADER, LEADERSHIP, SKILLS. Semantic similarity 0.44, keyword overlap 0.00.
+
+### Priya Nair (synth_01_software_engineer_python) — **No Hire**
+
+- Match score: 26/100
+- Meets must-have requirements: True
+- Experience: 6 years, Education: Bachelor's
+- Matched skills (strengths): none
+- Gaps: React, Redux, TypeScript
+- Reasoning: Strong semantic match in section(s): SUMMARY. Semantic similarity 0.40, keyword overlap 0.00.
+
+### Levi Abbas (synth_39_ux_designer) — **No Hire**
+
+- Match score: 24/100
+- Meets must-have requirements: True
+- Experience: 9 years, Education: Bachelor's
+- Matched skills (strengths): none
+- Gaps: React, Redux, TypeScript
+- Reasoning: Strong semantic match in section(s): EXPERIENCE, SUMMARY. Semantic similarity 0.38, keyword overlap 0.00.
+
+### synth 40 ux designer (synth_40_ux_designer) — **No Hire**
+
+- Match score: 24/100
+- Meets must-have requirements: True
+- Experience: 7 years, Education: Bachelor's
+- Matched skills (strengths): none
+- Gaps: React, Redux, TypeScript
+- Reasoning: Strong semantic match in section(s): SUMMARY. Semantic similarity 0.37, keyword overlap 0.00.
+
+### Amelia Wallace (synth_51_sales_engineer) — **No Hire**
+
+- Match score: 24/100
+- Meets must-have requirements: True
+- Experience: 6 years, Education: Bachelor's
+- Matched skills (strengths): none
+- Gaps: React, Redux, TypeScript
+- Reasoning: Strong semantic match in section(s): EXPERIENCE, SUMMARY. Semantic similarity 0.37, keyword overlap 0.00.
+
+### Dominic Andersen (synth_52_sales_engineer) — **No Hire**
+
+- Match score: 24/100
+- Meets must-have requirements: True
+- Experience: 9 years, Education: Bachelor's
+- Matched skills (strengths): none
+- Gaps: React, Redux, TypeScript
+- Reasoning: Strong semantic match in section(s): EXPERIENCE, SUMMARY. Semantic similarity 0.36, keyword overlap 0.00.
+
+### Ethan Meyer (synth_32_technical_product_manager) — **No Hire**
+
+- Match score: 23/100
+- Meets must-have requirements: True
+- Experience: 8 years, Education: Master's
+- Matched skills (strengths): none
+- Gaps: React, Redux, TypeScript
+- Reasoning: Strong semantic match in section(s): SUMMARY. Semantic similarity 0.35, keyword overlap 0.00.
+
+### Mia Santos (synth_31_technical_product_manager) — **No Hire**
+
+- Match score: 23/100
+- Meets must-have requirements: True
+- Experience: 3 years, Education: Master's
+- Matched skills (strengths): none
+- Gaps: React, Redux, TypeScript
+- Reasoning: Strong semantic match in section(s): SUMMARY. Semantic similarity 0.35, keyword overlap 0.00.

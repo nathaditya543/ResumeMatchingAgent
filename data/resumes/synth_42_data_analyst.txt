@@ -1,0 +1,21 @@
+Chloe Suzuki
+Email: chloe.suzuki@example.com | Phone: (882) 555-7691 | linkedin.com/in/chloesuzuki
+
+SUMMARY
+Data analyst with 8 years turning data into actionable business insights.
+
+EDUCATION
+Rutgers University
+Bachelor of Science in Statistics, Graduated May 2013
+
+EXPERIENCE
+Data Analyst, Vantage Cloud (May 2018 - Present)
+- Built SQL-based reporting used by 8 business teams for weekly decision-making
+- Automated recurring reports in Python/Pandas, saving 19 hours/week
+- Partnered with product to define and track key growth metrics
+
+Data Analyst, Nimbus Works (Sep 2013 - May 2018)
+- Built dashboards in Google Analytics for marketing performance tracking
+
+SKILLS
+SQL, Python, Pandas, NumPy, Google Analytics, A/B Testing, Git

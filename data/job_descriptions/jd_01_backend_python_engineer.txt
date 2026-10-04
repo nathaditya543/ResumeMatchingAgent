@@ -1,0 +1,15 @@
+Senior Backend Python Engineer
+
+We are hiring a Senior Backend Engineer to build scalable REST APIs and microservices.
+
+Requirements:
+- 5+ years of experience with Python
+- Strong experience with Django or FastAPI
+- Experience with PostgreSQL and message queues (Kafka or RabbitMQ)
+- Experience with Docker and Kubernetes
+- Familiarity with AWS cloud infrastructure
+
+Responsibilities:
+- Design and implement backend services handling high request volume
+- Mentor junior engineers and participate in code reviews
+- Collaborate with product managers to define technical requirements

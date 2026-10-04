@@ -1,0 +1,21 @@
+Ethan Meyer
+Email: ethan.meyer@example.com | Phone: (879) 555-2697 | linkedin.com/in/ethanmeyer
+
+SUMMARY
+Technical product manager with 8 years leading API and platform products.
+
+EDUCATION
+North Carolina State University
+Master of Business Administration, Graduated May 2020
+
+EXPERIENCE
+Technical Product Manager, Skyward Analytics (Nov 2024 - Present)
+- Owned roadmap for a developer platform product used by 600+ engineering teams
+- Partnered with engineering to ship 25 major releases per year using Agile/Scrum
+- Defined API product requirements and SLAs with cross-functional stakeholders
+
+Technical Product Manager, Silverline Partners (Sep 2020 - May 2024)
+- Managed backlog and sprint planning for an internal tools team
+
+SKILLS
+Product Strategy, Agile, Jira, SQL, A/B Testing, REST APIs, Stakeholder Management

@@ -1,0 +1,21 @@
+Harper Müller
+Email: harper.müller@example.com | Phone: (820) 555-9379 | linkedin.com/in/harpermüller
+
+SUMMARY
+UX designer with 7 years designing user-centered digital products.
+
+EDUCATION
+North Carolina State University
+Bachelor of Fine Arts in Design, Graduated May 2018
+
+EXPERIENCE
+UX Designer, Vertex Analytics (Dec 2023 - Present)
+- Led end-to-end UX design for a product used by 400K+ monthly active users
+- Ran usability studies that increased task completion rate by 52%
+- Built and maintained a design system adopted across 5 product teams
+
+UX Designer, BrightPath Labs (Jun 2018 - Jul 2023)
+- Designed wireframes and prototypes for a mobile app redesign
+
+SKILLS
+Figma, User Research, A/B Testing, Agile, Git

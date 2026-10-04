@@ -1,0 +1,21 @@
+Leo Rahman
+Email: leo.rahman@example.com | Phone: (517) 555-4680 | linkedin.com/in/leorahman
+
+SUMMARY
+Game developer with 6 years building gameplay systems for mobile and PC titles.
+
+EDUCATION
+Rutgers University
+Bachelor of Science in Computer Science, Graduated May 2021
+
+EXPERIENCE
+Game Developer, Silverline Partners (Feb 2024 - Present)
+- Shipped 9 titles with combined 25M+ downloads using C++ and Unity
+- Built multiplayer networking systems supporting real-time gameplay
+- Optimized rendering pipeline, improving frame rate by 20%
+
+Game Developer, Bluefield Technologies (Apr 2021 - Nov 2024)
+- Built gameplay prototypes in C++ for an indie studio
+
+SKILLS
+C++, Git, Agile, REST APIs, Linux

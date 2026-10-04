@@ -1,0 +1,21 @@
+Ethan Weber
+Email: ethan.weber@example.com | Phone: (898) 555-9797 | linkedin.com/in/ethanweber
+
+SUMMARY
+Data engineer with 4 years building large-scale batch and streaming pipelines.
+
+EDUCATION
+University of Colorado Boulder
+Bachelor of Science in Computer Science, Graduated May 2020
+
+EXPERIENCE
+Data Engineer, Solstice Digital (Nov 2023 - Present)
+- Built ETL pipelines in Python and Spark processing 8TB of data daily
+- Orchestrated workflows with Airflow, reducing pipeline failures by 39%
+- Designed a data warehouse schema on Snowflake/PostgreSQL serving analytics teams
+
+Data Engineer, Bluefield Technologies (Dec 2020 - Feb 2023)
+- Maintained Kafka-based streaming ingestion for real-time event data
+
+SKILLS
+Python, SQL, Spark, Airflow, Kafka, AWS, Docker, PostgreSQL, MongoDB, Git

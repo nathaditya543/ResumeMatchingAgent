@@ -1,0 +1,21 @@
+Mason Tanaka
+Email: mason.tanaka@example.com | Phone: (873) 555-9565 | linkedin.com/in/masontanaka
+
+SUMMARY
+Growth marketer with 4 years scaling acquisition channels for SaaS products.
+
+EDUCATION
+North Carolina State University
+Bachelor of Arts in Marketing, Graduated May 2021
+
+EXPERIENCE
+Growth Marketing Manager, Riverstone Labs (Oct 2024 - Present)
+- Scaled paid acquisition spend to $5M/year while maintaining target CAC
+- Improved organic traffic by 40% through SEO and content strategy
+- Built attribution dashboards in Google Analytics and HubSpot
+
+Growth Marketing Manager, Meridian Software (Feb 2021 - Jul 2024)
+- Managed social media campaigns and email marketing sequences
+
+SKILLS
+SEO, SEM, Google Ads, HubSpot, Google Analytics, Content Strategy, A/B Testing
